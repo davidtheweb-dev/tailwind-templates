@@ -1,6 +1,6 @@
 # Six responsive HTML + Tailwind templates
 
-Responsive HTML + Tailwind templates (clipboard, loopstudios, shortly, testimonial grid, fylo and bookmark manager) free to copy, modify and use.
+Responsive HTML + Tailwind templates (clipboard, loopstudios, shortly, testimonial grid, fylo and bookmark manager). Free to copy, modify and use.
 
 ## Clipboard website
 
@@ -24,6 +24,6 @@ Responsive HTML + Tailwind templates (clipboard, loopstudios, shortly, testimoni
 
 ## Bookmark manager website
 
-![Bookmark manager website image]()
+![image](https://github.com/davidtheweb-dev/tailwind-templates/assets/71373942/069155a7-bb6f-4fa7-86f1-bf70eb11529c)
 
 Use them as you wish and enjoy! 😋
